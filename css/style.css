@@ -1,0 +1,39 @@
+.navbar-brand h3{
+    font-family: 'Patua One', cursive;
+}
+
+.navbar-box-shadow {
+    border-bottom: 1px solid #dbdbdb;
+}
+
+.card{
+    border-radius: 0.2rem;
+    border: 1px solid #efefef;
+    min-width: 100%;
+    min-height: 100%;
+}
+
+.card:hover{   
+    box-shadow: 0 0 0.625rem -0.1875rem rgba(0,0,0,0.13) !important;
+}
+
+.form-control{
+    border-radius: 0;
+}
+
+.cs-offcanvas .cs-offcanvas-body {
+    /* overflow-x: hidden; */
+}
+
+.brand-bottom a:hover{
+    text-decoration: none;
+}
+.brand-bottom h3{
+    color: #8d8d97;
+    font-size: 23px;
+    font-family: 'Patua One', cursive;
+}
+
+.brand-bottom h3:hover{
+    color: #fff;
+}
