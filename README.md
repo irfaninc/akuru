@@ -1,1 +1,1 @@
-# akuru.github.io
+# akuru
